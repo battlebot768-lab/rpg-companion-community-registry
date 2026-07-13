@@ -1,17 +1,17 @@
 [
   {
-    "id": "default",
-    "name": "default",
-    "description": "The default repo!",
+    "id": "Skolijr-Homebrew",
+    "name": "Skoljir",
+    "description": "Homebrew elements",
     "tags": [
       "fantasy",
       "5e",
-      "5e2024",
-      "pf2e"
+      "Personal Use",
+      "Homebrew"
     ],
-    "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
-    "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 9,
+    "repo_url": "https://skoljir.cloudfront.net",
+    "github_repo": "battlebot768-lab/rpg-Homebrew-Skokjir_pack",
+    "stars": 0,
     "has_system": true
   },
   {
