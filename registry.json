@@ -1885,5 +1885,16 @@
     "github_repo": "DumbSword/lunar-sorcery-subclass",
     "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Homebrew-Skokjir-pack",
+    "description": "All homebrew for my home game ",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "battlebot768-lab/Homebrew-Skokjir-pack",
+    "repo_url": "https://battlebot768-lab.github.io/Homebrew-Skokjir-pack/",
+    "has_system": false
   }
 ]
