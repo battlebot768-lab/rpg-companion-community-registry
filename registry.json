@@ -1897,5 +1897,16 @@
     "github_repo": "owemca-svg/Norse-mythology-monster",
     "repo_url": "https://owemca-svg.github.io/Norse-mythology-monster/",
     "has_system": false
+  },
+  {
+    "name": "Battlezoo-dragon-ancestry-and-class",
+    "description": "battlezoo dragon ancestry ",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "tomhoobianschmal-svg/Battlezoo-dragon-ancestry-and-class",
+    "repo_url": "https://tomhoobianschmal-svg.github.io/Battlezoo-dragon-ancestry-and-class/",
+    "has_system": false
   }
 ]
