@@ -1908,5 +1908,17 @@
     "github_repo": "tomhoobianschmal-svg/Battlezoo-dragon-ancestry-and-class",
     "repo_url": "https://tomhoobianschmal-svg.github.io/Battlezoo-dragon-ancestry-and-class/",
     "has_system": false
+  },
+  {
+    "name": "Monster-Hunting-Tamer",
+    "description": "Find your way to tame",
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Cablako/Monster-Hunting-Tamer",
+    "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer/",
+    "has_system": false
   }
 ]
